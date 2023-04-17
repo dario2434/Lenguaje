@@ -1,0 +1,17 @@
+body{
+    background-image: url(../img/90px-Blanco.svg.png);
+}
+#cabecera{
+    background-image: url(../img/rothko.jpg);
+}
+#indice{
+    background-color: green;
+}
+#contenido{
+    background-image: url(../img/1.png);
+    background-position: center center;
+    background-size: cover;
+}
+#piedepagina{
+    background-image: url(../img/azul.jpg);
+}
