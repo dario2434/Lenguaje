@@ -6,11 +6,6 @@
 		<description>Noticias diarias del mundo</description>
 		<language>en-us</language>
 		<copyright><![CDATA[ darioacostagonzalez1@gmail.com ]]></copyright>
-		<image>
-			<url></url>
-			<title>Noticias del mes</title>
-			<link>http://dario-noticias.com</link>
-		</image>
 		<item>
 			<title>Inflacion Argentina</title>
 			<link>https://elpais.com/argentina/2023-04-14/argentina-registra-en-marzo-la-inflacion-mensual-mas-alta-desde-la-crisis-del-corralito.html</link>
